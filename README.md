@@ -1,2 +1,0 @@
-# Asteroids
-Created with CodeSandbox
